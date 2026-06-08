@@ -2,3 +2,51 @@
     margin:0;
     font-family: sans-serif;
 }
+.df1{
+    display: flex;
+justify-content: space-between;
+margin:30px;
+
+}
+.tx {
+    display: flex;
+    gap: 40px;
+    color: gray;
+}
+.df2{
+    display: flex;
+    margin: 20px;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: center;
+}
+.but1{
+    padding: 15px;
+    background-color: orangered;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+.section1{
+    background-color: black;
+    padding: 50px;
+    color: white;
+}
+.podd{
+    display: flex;
+    gap: 20px;
+
+}
+.minid{
+    padding: 20px;
+    color: gray;
+    border: 2px solid gray;
+
+}
+.podd2{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+justify-content: center;
+margin-top: 50px;
+}
