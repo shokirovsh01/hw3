@@ -117,3 +117,25 @@ justify-content: space-around;
     align-items: center;
     margin-top: 50px;
 }
+input{
+    padding: 10px;
+}
+.section7{
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    margin-top: 50px;
+}
+td{
+    color: grey;
+
+}
+th{
+    color :white;
+}
+.end{
+    background-color: black;
+    padding: 50px;
+text-align: start;
+}
