@@ -139,3 +139,91 @@ th{
     padding: 50px;
 text-align: start;
 }
+.but3{
+    width: 360px;
+}
+.mdf1{
+    display: none;
+}
+@media (max-width:510px) {
+    .df1{
+        display: none;
+    }
+    .df2{
+        display: none;
+    }
+    .mdf1{
+        display:block;
+        display:flex;
+    justify-content: space-between;
+    margin:20px;
+    }
+    .podd{
+        flex-wrap: wrap;
+    }
+    .podd2{
+        flex-wrap:wrap;
+    }
+.str{
+    display:none;
+}
+.minid{
+    width: 220px;
+}
+.section2{
+flex-wrap: wrap;
+}
+.secti{
+    height: 150px;
+}
+.sectdf{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.section4{
+    flex-wrap: wrap;
+}
+.s4i{
+    width:60%;
+}
+.s4im{
+    display:none;
+}
+.s4im2{
+    flex-wrap: wrap;
+    margin-left: -85px;
+}
+.imm{
+    height:400px;
+}
+.med{
+    display:none;
+}
+.section6{
+    flex-wrap:wrap;
+}
+.podsection6{
+    flex-wrap: wrap;
+}
+input{
+    width:80%;
+}
+.but3{
+    width:80%;
+}
+.imdf{
+    display:none;
+}
+.end{
+    display:none;
+}
+.mi{
+    display:none;
+}
+.section5{
+    flex-wrap:wrap;
+}
+body{
+    overflow-x:hidden;
+}
+}
