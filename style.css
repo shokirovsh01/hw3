@@ -50,3 +50,70 @@ margin:30px;
 justify-content: center;
 margin-top: 50px;
 }
+.section2{
+    display: flex;
+    margin: 50px;
+    justify-content: space-between;
+}
+.sectdf{
+    display: flex;
+    gap: 10px;
+    margin-left: 50px;
+}
+.secti{
+    border: 2px solid gray;
+    padding: 30px;
+    margin: 10px;
+    width: 250px;
+    height: 60px;
+}
+.sector{
+    margin-left: 750px;
+    width: 350px;
+    margin-top: -275px;
+    height: 200px;
+}
+.section4{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-evenly;
+}
+.s4i{
+    margin-left: 50px;
+
+
+}
+.s4tx{
+    margin-left: 30px;
+    margin-top: 50px;
+    
+}
+.section5{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    align-items: baseline;
+}
+.s5i{
+    margin-top: 30px;
+     text-align: center; 
+    border: 1px solid gray;
+    padding: 5px;
+
+}
+.section6{
+    display: flex;
+justify-content: space-around;
+}
+.but2{
+    border: 2px solid black;
+    color: black;
+    background-color: white;
+}
+.podsection6{
+    display: flex;
+    justify-content: center;
+    gap:50px;
+    align-items: center;
+    margin-top: 50px;
+}
